@@ -1,6 +1,6 @@
 import type { HardhatUserConfig } from 'hardhat/config'
 import '@nomicfoundation/hardhat-toolbox'
-import "tsconfig-paths/register";
+import 'tsconfig-paths/register'
 
 const config: HardhatUserConfig = {
     solidity: {
