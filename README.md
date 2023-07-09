@@ -1,8 +1,7 @@
-# Hardhat-starter
+# Hardhat-matchers-tests
 
 ## Description
-
-Este proyecto se ha desarrollado con el objetivo de brindar una explicación detallada en [el artículo](https://ayudablockchain.dev/hardhat-testing/) sobre todos los tipos de matchers que Hardhat ha incluido para probar la solidez y resistencia de los contratos.
+This project has been created to provide an explanation in [the article](https://ayudablockchain.dev/hardhat-testing/) about all the types of matchers that Hardhat has included to test the robustness of contracts.
 
 ## Usage
 
